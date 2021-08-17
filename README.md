@@ -1,15 +1,62 @@
-# Getting Started with Create React App
+# Project Name
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Math Magicians - A calculator built using react
 
-## Available Scripts
+This is a setup of the environment and tools needed to develop the React application.
 
-In the project directory, you can run:
 
-### `npm start`
+## Built With
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- JavaScript, HTML, CSS
+- Webpack
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+
+## Live Demo
+
+Coming soon
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+- Node
+- Web browser
+
+### Setup
+- Open terminal porgram
+- Clone this repositiory by running `git clone https://github.com/kimothokamau/mathmagicians.git `
+
+
+### Install
+- Run `npm install`
+
+
+### Usage
+- Run `npm start`
+
+### Run tests
+- Coming soon
+
+
+## Authors
+ 
+**Kevin Kamau**
+- Github: [@kimothokamau](https://github.com/kimothokamau)
+- Twitter: [@kimothokk](https://twitter.com/kimothokk)
+- Linkedin: [Kevin Kamau](https://www.linkedin.com/in/kevinkamauk/)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/kimothokamau/mathmagicians/issues)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
