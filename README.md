@@ -4,6 +4,8 @@ Math Magicians - A calculator built using react
 
 This is a setup of the environment and tools needed to develop the React application.
 
+![screenshot](./src/assets/screenshot1.png)
+
 
 ## Built With
 
