@@ -39,7 +39,7 @@ class Calculator extends React.Component {
         </Row>
 
         <Row>
-          <Col className="item item-double"> 0 </Col>
+          <Col xs={6} className="item item-gray"> 0 </Col>
           <Col className="item item-gray"> . </Col>
           <Col className="item item-orange"> = </Col>
         </Row>
