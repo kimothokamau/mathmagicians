@@ -1,0 +1,10 @@
+{
+  "editor.wordWrap": "on",
+  "emmet.excludeLanguages": [
+
+    "markdown"
+  ],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+ }
+}
