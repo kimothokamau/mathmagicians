@@ -151,19 +151,18 @@ body {
 }
 
 .item {
-  border: 0.5px solid #d4d4d0;
-  border-style: groove;
+  /* border: 0.5px solid #d4d4d0;
+  border-style: groove; */
   height: 60px;
+  width: 100px;
   text-align: center;
   line-height: 60px;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 30px;
+  color: black;
 }
 
-.item > * {
-  text-align: center;
-}
 
 .item-gray {
   background-color: #d4d4d2;
@@ -172,3 +171,8 @@ body {
 .item-orange {
   background-color: #ff9500;
 }
+
+.item-double {
+  width: 380px;
+}
+
