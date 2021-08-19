@@ -52,5 +52,6 @@ body {
 
 .row-grid {
   display: flex;
+
   --bs-gutter-x: 0;
 }
