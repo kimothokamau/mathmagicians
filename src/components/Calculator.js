@@ -5,6 +5,11 @@ import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
 // eslint-disable-next-line react/prefer-stateless-function
 class Calculator extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {};
+  }
+
   render() {
     return (
       <Container className="main-container">
