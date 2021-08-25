@@ -20,8 +20,9 @@ body {
 .outer-container > h1 {
   justify-self: flex-start;
 }
+
 .main-container {
-  /* margin: 3em auto auto auto; */
+  justify-self: self-end;
 }
 
 .answer {
