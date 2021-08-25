@@ -4,7 +4,7 @@ const Quote = () => (
   <>
     <p style={{
       fontSize: '2rem',
-      textAlign: 'center',
+      textAlign: 'left',
       margin: '0 0.5rem',
     }}
     >

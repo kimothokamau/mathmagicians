@@ -6,12 +6,12 @@ const NavBar = () => {
     {
       id: 1,
       path: '/',
-      text: 'Calculator',
+      text: 'Home',
     },
     {
       id: 2,
-      path: '/home',
-      text: 'Home',
+      path: '/calculator',
+      text: 'Calculator',
     },
     {
       id: 3,
