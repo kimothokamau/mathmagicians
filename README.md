@@ -15,7 +15,9 @@ This is a setup of the environment and tools needed to develop the React applica
 
 ## Live Demo
 
-Coming soon
+https://hardcore-murdock-d78537.netlify.app/
+
+https://mathmagicians-kk.herokuapp.com/
 
 ## Getting Started
 
